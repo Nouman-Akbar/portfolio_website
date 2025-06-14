@@ -1,80 +1,91 @@
-# Portfolio Template
+# 💻 noumanakbar.com – Portfolio Website
 
-An open-source, user-friendly, responsive, and accessible portfolio template for developers 🚀⚡
+This is the personal portfolio of **Muhammad Nouman Akbar**, a Full-Stack Web Developer with expertise in Shopify, WordPress, and modern front-end technologies.
 
-Give a star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-portfolio.netlify.app/)
+Visit the live site: [https://noumanakbar.com](https://noumanakbar.com)
 
-![Portfolio Template Gif](assets/images/portfolio-template.gif)
+---
 
-## Useful resources
+## 🔍 About the Project
 
-Make sure to subscribe to our [youtube channel](https://www.youtube.com/@nisarhassan12) channel where we cover creating template like this from scratch using HTML, CSS and JavaScript also don't forget to star 🌟 the [css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) that has already reached 180+ stars.
+This website serves as a professional showcase of my:
+- Web development skills
+- Selected client work
+- Articles and insights
+- Technical toolkit
+- Contact information
 
-## Table of Contents
+It's built to be fast, accessible, and fully responsive — optimized for performance and modern UX standards.
 
-1. [Features](#key-features)
-1. [Customization](#customizing-the-template)
-1. [Deploying the Site](#deploying-the-site)
+---
 
-## Features
+## 🧰 Tech Stack
 
-- Fully Mobile responsive.
-- Supports light/dark theme.
-- Built with a11y in mind.
-- Modern design.
-- Multiple sections.
-- Sleek animations.
-- Fast loads.
-- SEO-optimized.
+- **HTML5**, **CSS3**, **JavaScript (Vanilla)**
+- Mobile-first responsive layout
+- Modern semantic structure
+- WCAG-compliant accessibility
+- SEO-optimized markup
+- Light/dark theme support (CSS variables)
+- Optimized assets for Lighthouse 100 scores
 
-<img src="assets/images/lighthouse.png" alt="lighthouse report with 100% scores">
+---
 
-## Customizing the Template
+## 📁 Structure Overview
 
-Please follow these three steps to make an awe-inspiring portfolio of your own.
+/
+├── index.html # Homepage
+├── css/
+│ └── style.css # Main stylesheet
+├── js/
+│ └── main.js # Interactive behavior
+├── images/ # Icons, logos, optimized assets
+├── site-info.xml # Custom metadata for AI and crawlers
+├── robots.txt # Crawler instructions
+├── sitemap.xml # Sitemap for SEO and indexing
+└── README.md # Project overview (this file)
 
-- [Cloning the repository](#cloning-the-repository)
-- [Editing the Template](#editing-the-template)
-- [Deploying the Site](#deploying-the-site)
 
-### Cloning the Repository.
+---
 
-If you have [Git](https://git-scm.com/) installed on your computer, you can clone or download the portfolio template by running the following command in your terminal.
+## 📌 Key Sections
 
-```bash
-git clone https://github.com/devsyedmohsin/portfolio-template
-```
+1. **Hero Section** – Brief intro and CTA
+2. **Trusted By** – Logos of clients and brands I've worked with
+3. **Selected Work** – Featured projects with details
+4. **Articles** – Blog posts and publications
+5. **Skills** – Tools and technologies I use
+6. **Testimonials** – Client reviews
+7. **Contact** – Simple form and professional info
+8. **Footer** – Social links and copyright
 
-Alternatively, click on this [link](https://github.com/devsyedmohsin/portfolio-template/archive/refs/heads/main.zip) to download it.
+---
 
-### Editing the Template
+## 🔒 Accessibility & Performance
 
-After you get the template please open it in the code editor of your choice.
-You will find a file named `index.html` Open it and follow the guidance inscribed within the comments to customize the template.
+- ARIA roles & labels
+- Keyboard navigation support
+- Contrast-checked color schemes
+- Lazy loading of media
+- Minified JS/CSS
+- Font and icon optimization
 
-**For example:**
+---
 
-```html
-<!-- Update with your name -->
-<title>Syed Mohsin's Portfolio</title>
-```
+## 📜 License
 
-```html
-<div class="header-textbox">
-  <!-- Replace with your name & job title -->
-  <h1 class="h1">Hi, I'm Syed Mohsin Frontend Web Developer</h1>
+This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-  <!-- Add a small introductory paragraph about yourself -->
-  <p class="header-text">A frontend software engineer and interface designer</p>
-</div>
-```
+© 2024 Muhammad Nouman Akbar
 
-**Note:** While editing the template, ensure you have updated all `href`, img `src`, and `alt` attributes of links and images.
+---
 
-### Deploying the Site
+## 📬 Contact
 
-Watch [this youtube video](https://www.youtube.com/watch?v=oEyXLYW3RjY) to learn how to deploy your version of the portfolio template to the web.
+Feel free to connect with me:
 
-[![Deploy your version of the Portfolio template using Netlify](assets/images/thumbnail.png)](https://www.youtube.com/watch?v=oEyXLYW3RjY "Deploy your version of the Portfolio template using Netlify")
+- 📧 Email: [nouman.ch.7696@gmail.com](mailto:nouman.ch.7696@gmail.com)  
+- 💼 LinkedIn: [@nouman-akbar-developer](https://www.linkedin.com/in/nouman-akbar-developer)  
+- 📱 WhatsApp: +92 309 7696401
 
-### Contributions are warmly welcomed ❤️.
+---
