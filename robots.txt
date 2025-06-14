@@ -1,0 +1,21 @@
+# robots.txt for noumanakbar.com
+User-agent: *
+Allow: /
+Sitemap: https://noumanakbar.com/sitemap.xml
+
+# Allow all bots to access CSS, JS, and images
+Allow: /assets/
+Allow: /style.css
+Allow: /script.js
+
+# Disallow any potential admin or private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /drafts/
+
+# Crawl delay for heavy bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10

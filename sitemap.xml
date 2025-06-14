@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteInfo>
+  <siteOwner>
+    <name>Muhammad Nouman Akbar</name>
+    <title>Full-Stack Web Developer</title>
+    <linkedin>https://www.linkedin.com/in/nouman-akbar-developer/</linkedin>
+  </siteOwner>
+
+  <sitePurpose>
+    Professional portfolio showcasing web development projects, skills, and services.
+  </sitePurpose>
+
+  <technologiesUsed>
+    <technology>HTML5</technology>
+    <technology>CSS3</technology>
+    <technology>JavaScript</technology>
+    <technology>Responsive design principles</technology>
+    <technology>Accessibility features (WCAG compliant)</technology>
+    <technology>Dark/light theme support</technology>
+    <technology>Optimized for performance (100% Lighthouse scores)</technology>
+  </technologiesUsed>
+
+  <contentSections>
+    <section>Hero Section: Introduction and call-to-action</section>
+    <section>Trusted By: Client logos with animation</section>
+    <section>Selected Work: Portfolio projects with descriptions</section>
+    <section>Articles: Blog posts and publications</section>
+    <section>Skills: Technical toolkit and expertise</section>
+    <section>Testimonials: Client feedback</section>
+    <section>Contact: Form and professional information</section>
+    <section>Footer: Social links and copyright</section>
+  </contentSections>
+
+  <seoInformation>
+    <primaryKeywords>web developer, full-stack developer, eCommerce solutions</primaryKeywords>
+    <secondaryKeywords>Shopify, WordPress, React, Gatsby</secondaryKeywords>
+    <targetAudience>Potential clients, employers, and collaborators</targetAudience>
+  </seoInformation>
+
+  <accessibilityFeatures>
+    <feature>Semantic HTML structure</feature>
+    <feature>ARIA labels for interactive elements</feature>
+    <feature>Keyboard navigation support</feature>
+    <feature>Color contrast compliance</feature>
+    <feature>Screen reader compatibility</feature>
+  <
